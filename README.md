@@ -1,2 +1,7 @@
-# javaScript_problem_solving
-Daily JavaScript problem-solving practice and solutions .
+# JavaScript Problem Solving
+
+This repository contains my JavaScript problem-solving practice.
+
+## Problems Solved
+
+1.Take first n elements.

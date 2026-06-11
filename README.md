@@ -4,4 +4,4 @@ This repository contains my JavaScript problem-solving practice.
 
 ## Problems Solved
 
-1.Take first n elements.
+1.Take first n elements. <br/> 2. Twice as old.
